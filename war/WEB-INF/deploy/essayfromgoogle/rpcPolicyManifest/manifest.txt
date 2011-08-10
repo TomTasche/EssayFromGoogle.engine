@@ -1,0 +1,3 @@
+# Module essayfromgoogle
+# RPC service class, partial path of RPC policy file
+at.tomtasche.google.essay.client.EssayService, DD0C19DF897FE11507ED4DFFDE3FB67B.gwt.rpc

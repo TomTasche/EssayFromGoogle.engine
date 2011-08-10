@@ -1,0 +1,2 @@
+serviceClass: at.tomtasche.google.essay.client.EssayService
+path: DD0C19DF897FE11507ED4DFFDE3FB67B.gwt.rpc
